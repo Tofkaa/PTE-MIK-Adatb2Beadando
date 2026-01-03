@@ -2,7 +2,6 @@
 
 Ez a projekt egy robusztus, Oracle Database alapu backend rendszer egy nyelvtanulo alkalmazashoz. A rendszer teljes koru funkcionalitast biztosit felhasznalok kezelesere, tananyagok szervezesere, gamifikaciora (XP, Streak, Achievements), osztalytermek kezelesere es adminisztraciora.
 
-A fejlesztes soran a "Thick Database" megkozelitest alkalmaztuk: az uzleti logika, az adatvalidacio es a jogosultsagkezeles nem a kliens oldalon, hanem kozvetlenul az adatbazisban, optimalizalt PL/SQL csomagokban valosul meg.
 
 ## Fobb Funkciok
 
